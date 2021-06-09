@@ -1,4 +1,5 @@
-## stm32f4_PID
-#Bu repo STM32F4 kartı ile denediğimiz PID kontrol devresinin şeması, kütüphaneleri, kaynak dosyaları ve bazı ipuçlarını içerir.
-#soncalisanbensalakmiyim.rar = Kütüphane dosyaları olmadan, pid_balance kod'un çalışan halidir.
-#hintlipic.rar servo.h ve pid.v1 kütüphaneleri ile çalışan koddur.
+# stm32f4_PID
+## Contains the schematic of the PID control circuit we tried with the STM32F4 board, libraries, source files and some tips.
+
+##### soncalisanbensalakmiyim.rar = running pid_balance code without library files.
+##### hintlipic.rar = the code that works with the servo.h and pid.v1 libraries.
